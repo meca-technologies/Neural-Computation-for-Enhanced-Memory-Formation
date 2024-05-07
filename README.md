@@ -16,3 +16,12 @@ The importance of the ability to form memory in machine-learning systems for cer
 Survey of existing models for weaving neural network-like networks together with symbolic reasoning – including neural-symbolic integration frameworks and neuro-symbolic systems.
 
 Detailed analysis of the relevant cognitive science of biological brains – how our personal memories get formed in the first place, and how our powers of logical reasoning function.
+
+
+# Framework Overview:
+
+Description of the proposed framework for integrating logical inference with neural computation.
+
+Components of the framework, including symbolic representations, logical rules, and neural network architectures.
+
+Illustrative examples demonstrating how logical reasoning can complement neural computation in memory formation tasks.
