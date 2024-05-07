@@ -10,3 +10,9 @@ For example, modern neural networks do a very poor job of reproducing logical co
 Motivation for integrating logical inference with neural computation to address these limitations.
 
 The importance of the ability to form memory in machine-learning systems for certain tasks where long-term reasoning and complex decision-making are required.
+
+# Background:
+
+Survey of existing models for weaving neural network-like networks together with symbolic reasoning – including neural-symbolic integration frameworks and neuro-symbolic systems.
+
+Detailed analysis of the relevant cognitive science of biological brains – how our personal memories get formed in the first place, and how our powers of logical reasoning function.
