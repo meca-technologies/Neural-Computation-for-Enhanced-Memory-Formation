@@ -25,3 +25,43 @@ Description of the proposed framework for integrating logical inference with neu
 Components of the framework, including symbolic representations, logical rules, and neural network architectures.
 
 Illustrative examples demonstrating how logical reasoning can complement neural computation in memory formation tasks.
+
+# File Structure
+ neural_computation_memory/
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   ├── training_data/
+│   └── test_data/
+├── models/
+│   ├── __init__.py
+│   ├── neural_network.py
+│   ├── symbolic_layer.py
+│   └── rule_based_engine.py
+├── training/
+│   ├── __init__.py
+│   ├── training_pipeline.py
+│   ├── supervised_learning.py
+│   ├── reinforcement_learning.py
+│   └── joint_optimization.py
+├── inference/
+│   ├── __init__.py
+│   ├── inference_pipeline.py
+│   └── reasoning_module.py
+├── evaluation/
+│   ├── __init__.py
+│   ├── evaluate_performance.py
+│   ├── benchmark.py
+│   └── case_studies.py
+├── utils/
+│   ├── __init__.py
+│   ├── data_processing.py
+│   └── helpers.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_neural_network.py
+│   ├── test_symbolic_layer.py
+│   └── test_rule_based_engine.py
+└── main.py
